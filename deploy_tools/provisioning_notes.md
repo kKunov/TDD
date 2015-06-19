@@ -17,12 +17,12 @@ eg, on Ubuntu:
 ## Nginx Virtual Host config
 
 * see nginx.template.conf
-* replace SITENAME with, eg, staging.my-domain.com
+* replace SITENAME with, eg, kokal.tk
 
 ## Upstart Job
 
 * see gunicorn-upstart.template.conf
-* replace SITENAME with, eg, staging.my-domain.com
+* replace SITENAME with, eg, kokal.tk
 
 ## Folder structure:
 Assume we have a user account at /home/username
